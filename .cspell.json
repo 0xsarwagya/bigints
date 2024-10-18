@@ -1,0 +1,32 @@
+{
+  "version": "0.2",
+  "language": "en",
+  "words": [
+    "degit",
+    "esbuild",
+    "gjuchault",
+    "octocat",
+    "outdir",
+    "rmrf",
+    "Bigints",
+    "copysign",
+    "trunc",
+    "bigints",
+    "copysign",
+    "Substracts",
+    "boundries",
+    "standart",
+    "multipliying",
+    "trunc",
+    "seperate",
+    "behaviour"
+  ],
+  "flagWords": [],
+  "ignorePaths": [
+    "package.json",
+    "package-lock.json",
+    "yarn.lock",
+    "tsconfig.json",
+    "node_modules/**"
+  ]
+}
