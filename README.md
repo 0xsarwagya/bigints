@@ -37,7 +37,7 @@ npm install -s bigints
 Once imported, you can use `BigNumber` on any typescript project.
 
 ```ts
-import { BigNumber } from 'typescript-bignumber'
+import { BigNumber } from 'bigints'
 
 const x = BigNumber.fromString("1.28");
 
